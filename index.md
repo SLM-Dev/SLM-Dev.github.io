@@ -1,5 +1,4 @@
-Here you can say lots of fun things about your site.
+I'm gonna write about my tech journey, from start to finish, with all the ups and downs in between.
 
-Maybe say a some things about yourself.
+<!-- The guts and glory -->
 
-Or maybe what you plan to blog about.
