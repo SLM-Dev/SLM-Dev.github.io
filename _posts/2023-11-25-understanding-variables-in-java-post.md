@@ -75,6 +75,7 @@ boolean isMarried = true;
 **Explanation**: A char holds a single character.
 
 ```java
+/* Declaring a char variable named firstInitial and initializing it to 'J'*/
 char firstInitial = 'J'; 
 ```
 
