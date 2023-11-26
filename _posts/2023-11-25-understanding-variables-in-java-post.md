@@ -76,8 +76,8 @@ boolean isMarried = true;
 
 ```java
 /* Declaring a char variable named firstInitial and initializing it to 'J'*/
-char firstInitial = 'J'; 
-```
+char firstInitial = 'J';
+
 
 **`byte` (Byte)**
 
