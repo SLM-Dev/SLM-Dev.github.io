@@ -35,7 +35,7 @@ Think of operators in Java like the tools in a toolbox. Each tool has a specific
 
 ## Analogies and Explanations
 
-`Assignment Operator` (=)
+**`Assignment Operator` (=)**
 
 >**Analogy**: Assigning `=` a value to a box, whatever is on the right side is placed inside the box (left side).
 
