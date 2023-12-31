@@ -297,6 +297,7 @@ boolean isDog = dog instanceof Dog; // isDog will be true
 ```
 
 **`Bitwise and Bit Shift Operators` (`&`,`|`,`^`,`~`,`<<`,`>>`,`>>>`)**
+
 **Bitwise AND Operator (&)**
 
 >**Analogy**: Turning on a light switch. Imagine turning on a light switch to light up a room.
