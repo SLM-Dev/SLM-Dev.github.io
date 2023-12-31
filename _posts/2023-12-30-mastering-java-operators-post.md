@@ -244,7 +244,7 @@ int number = 5;
 boolean isTrue = number <= 5; // isTrue will be true
 ```
 
-**`Conditional Operators` (&&, ||, ? :)**
+**`Conditional Operators` (`&&`, `||`, `?:`)**
 
 **Conditional-AND Operator (&&)**
 
@@ -259,7 +259,7 @@ boolean hasMap = true;
 boolean canOpenChest = hasKey && hasMap; // canOpenChest will be true
 ```
 
-**Conditional-OR Operator (||)**
+**Conditional-OR Operator (`||`)**
 
 >**Analogy**: Checking if at least one condition is true. Imagine checking if you have either a key or a lockpick to open a door or checking if you have either a key or a map to unlock a treasure chest.
 
