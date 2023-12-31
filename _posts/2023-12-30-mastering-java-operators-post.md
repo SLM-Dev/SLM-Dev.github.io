@@ -377,7 +377,7 @@ int number = 5 >>> 3; // number will be 0
 
 # Conclusion
 
-### By understanding operators, you now have the keys to create code that's more precise, efficient, and even mind-bendingly clever. Remember, these are your tools to shape data and control the flow of your programs. Keep practicing, keep experimenting, and never stop exploring the possibilities. The only limit is your imagination!
+By understanding operators, you now have the keys to create code that's more precise, efficient, and even mind-bendingly clever. Remember, these are your tools to shape data and control the flow of your programs. Keep practicing, keep experimenting, and never stop exploring the possibilities. The only limit is your imagination!
 
 
 
