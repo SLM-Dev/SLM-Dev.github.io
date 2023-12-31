@@ -46,7 +46,7 @@ Think of operators in Java like the tools in a toolbox. Each tool has a specific
 int a = 5; // Assigns 5 to the variable a.
 ```
 
-**`Arithmetic Operators` (+, -, , /, %)**
+**`Arithmetic Operators` (+, -,*, /, %)**
 
 **Addition Operator (+)**
 
