@@ -309,7 +309,7 @@ boolean isDog = dog instanceof Dog; // isDog will be true
 int number = 5 & 3; // number will be 1
 ```
 
-**Bitwise OR Operator (|)**
+**Bitwise OR Operator (`|`)**
 
 >**Analogy**: Turning on a light switch. Imagine turning on a light switch to light up a room.
 
