@@ -296,7 +296,7 @@ Dog dog = new Dog();
 boolean isDog = dog instanceof Dog; // isDog will be true
 ```
 
-**`Bitwise and Bit Shift Operators` (&, |, ^, ~, <<, >>, >>>)**
+**`Bitwise and Bit Shift Operators` (&,|,^,~,<<,>>,>>>)**
 
 **Bitwise AND Operator (&)**
 
